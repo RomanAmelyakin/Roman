@@ -25,7 +25,7 @@
     $mail -> SMTPAuth = true;
     $mail -> CharSet = "utf-8";
     $mail -> Username = "amelyakin@gmail.com";
-    $mail -> Password = "ntjahfcn9937";
+    $mail -> Password = "123456";
 
     $mail -> SetFrom ("amelyakin@gmail.com");
     $mail -> AddAddress ("troyanda.rud@gmail.com");
