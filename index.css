@@ -1,0 +1,85 @@
+body
+{
+	background-image: url(3.png);
+}
+h1
+{
+	color: MidnightBlue;
+	font-size: 40pt;
+	text-shadow: 6px 3px 3px DarkGrey;
+	text-align: center;
+}
+h2
+{
+    font-size: 25pt;
+    text-align: center;
+}
+.form_input
+{
+	font-size: 16pt;
+	text-indent: 35px;
+	background-image: url(31.jpg);
+	border: 3px dotted orange;
+	border-radius: 15px;
+	width: 600px;
+	height: 360px;
+	float: left;
+	box-shadow: 0 0 20px DarkGray;
+}
+.name
+{
+    font-size: 14pt;
+    width: 400px;
+}
+.text
+{
+    font-size: 14pt;
+    width: 404px;
+    height: 80px;
+    vertical-align: top;
+}
+.date
+{
+	font-size: 14pt;
+	width: 374px;
+}
+.button
+{
+    position: absolute;
+    top: 440px;
+    left: 463px;
+    font-size: 14pt;
+}
+table
+{
+	position: absolute;
+	top: 500px;
+	caption-side: top;
+	text-align: center;
+	border-collapse: collapse;
+	border: 4px solid black;
+	table-layout: fixed;
+	font-size: 16pt;
+	font-weight: bolder;
+	width: 1880px;
+}
+caption
+{
+	font-size: 30pt;
+	color: MidnightBlue;
+}
+th
+{
+	background-color: Thistle;
+	border: 2px solid black;
+	font-size: 15pt;
+}
+td
+{
+	border: 2px solid black;
+	font-size: 15pt;
+}
+td:hover
+{
+	background-color:Lavender;
+}
